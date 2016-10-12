@@ -4,6 +4,11 @@ p {
 	text-align:  center;
 }
 
+.hidden-links {
+	text-decoration:  none;
+	color:  #536482
+}
+
 #paraclass {
 	color:  red;
 	font-size:  18px;
